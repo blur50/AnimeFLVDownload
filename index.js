@@ -9,4 +9,6 @@ program
 
 if(program.args[0]) {
   AnimeFLVDownload(program.args[0], program.start);
+} else {
+  console.log(program.help());
 }
