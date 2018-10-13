@@ -1,8 +1,8 @@
 {
   "name": "animeflvdownload",
-  "version": "1.0.3",
-  "description": "A CLI tool to donwload anime from AnimeFLV via zippyshare",
-  "main": "index.js",
+  "version": "1.0.4",
+  "description": "Una herramienta de consola para descargar anime desde AnimeFLV",
+  "main": "AnimeFLVDownload.js",
   "dependencies": {
     "chalk": "^2.4.1",
     "commander": "^2.18.0",
@@ -15,6 +15,9 @@
   },
   "license": "ISC",
   "bin": {
-    "AnimeFLVDownload": "./index.js"
+    "AnimeFLVDownload": "./AnimeFLVDownload.js"
+  },
+  "devDependencies": {
+    "eslint": "^5.6.1"
   }
 }
