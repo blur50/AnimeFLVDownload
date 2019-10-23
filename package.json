@@ -1,12 +1,12 @@
 {
   "name": "animeflvdownload",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Una herramienta de consola para descargar anime desde AnimeFLV",
   "main": "AnimeFLVDownload.js",
   "dependencies": {
     "chalk": "^2.4.1",
     "commander": "^2.18.0",
-    "puppeteer": "^1.8.0"
+    "puppeteer": "^1.20.0"
   },
   "author": "blur50",
   "repository": {
