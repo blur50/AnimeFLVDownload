@@ -1,5 +1,10 @@
 # AnimeFLVDownload
 
+## Actualización 2021/05/13
+Al parecer, AnimeFLV implementó un intermediario en su sitio para eliminar bots, asi que dudo que este proyecto siga funcionando
+Algúm dia evaluare si se puede reimplementar
+
+
 **Actualmente, existe solamente soporte de descarga con Zippyshare**
 
 Una herramienta de línea de comando para descarga anime desde AnimeFLV.
